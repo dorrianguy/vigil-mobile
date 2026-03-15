@@ -1,0 +1,12 @@
+{
+  "appId": "com.vigilplatform.app",
+  "appName": "Vigil AI",
+  "webDir": "www",
+  "server": {
+    "url": "https://vigilplatform.ai",
+    "cleartext": false
+  },
+  "android": {
+    "allowMixedContent": false
+  }
+}
